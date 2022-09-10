@@ -35,7 +35,7 @@ public class Main {
         -‘m’: modul
        Daca nu s-a introdus un caracter valid, afisati un mesaj de eroare.
           */
-    /   public static void punctulB2(){
+     public static void punctulB2(){
    Scanner input=new Scanner(System.in);
    char operator;
    Double numar1,numar2, result;
