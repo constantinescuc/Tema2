@@ -1,0 +1,40 @@
+a. Carmen rezolvă problemele opționale de la subpunctele 2.3.1, 2.3.2, 2.3.3, 2.3.4, dă fork la exercițiile de pe replit, dă click pe butonul Run, verifică dacă fiecare proiect a rulat cu succes.
+[
+  2.3.1. Basics - Java Lasagna
+  2.3.2 Annalyn's Infiltration - Booleans
+  2.3.3 Play your cards! - Conditionals
+  2.3.4 Birds - Loops
+   ]
+
+b. Creati un nou Repl , si rezolvati fiecare subpunct intr-o metoda din clasa Main:
+1.Citit un numar de la tastatura si stocati valoarea lui intr-o variabila. Generati un numar random intre 1 si 100 si stocati acel numar intr-o alta variabila. Daca numarul introdus de la tastatura este mai mic decat numarul random generat, afisati mesajul “Numarul introdus este mai mic decat <numar_random>” (inserati valoarea numarului random generat in textul afisat).
+2.Citit un caracter si 2 numere de la tastatura, si stocati-le in variabile. Folosind structura switch, daca s-a introdus un caracter anume, realizati operatia respectiva cu cele 2 numere, si afisati rezultatul pe ecran:
+-‘a’: adaugare
+-‘s’: scadere
+-‘i’: inmultire
+-‘p’: impartire
+-‘m’: modul
+Daca nu s-a introdus un caracter valid, afisati un mesaj de eroare.
+
+3.Definiti un array de 2 dimensiuni, fiecare dimensiune sa aiba cate 3, respectiv 5 elemente. Initializati array-ul. Afisati primele si ultimele elemente din fiecare dimensiune pe ecran.
+
+4.Definiti un array de char-uri. Iterati array-ul folosind structura for, si afisati pe ecran cate al doilea caracter din sir.
+
+5.Definiti un array de double, cu valori zecimale. Iterati array-ul folosind strutura for, si daca un element este egal cu valoarea 4.5, afisati-l pe ecran. Daca un element este mai mare decat 5, afisati mesajul “Element peste 5”
+
+6.Definiti un array cu 9 elemente si parcugeti-l cu structura for (tipul de date este la alegere). Daca iteratia este la indexul 2, sa se sara peste. Daca iteratia este la indexul 7, sa se opreasca iteratia. Altfel, sa se afiseze mesajul “Index valid” pe ecran.
+
+7.Definiti o lista de Integer, de 5 elemente. Calculati suma tuturor elementelor.
+
+8.Definiti un array si o lista. Determinati daca ele sunt goale sau nu.
+
+c. Completează formularul de feedback.
+
+d. Încărcă link-urile de Replit cu soluțiile de la punctele a şi b , folosind Text reply
+
+De exemplu:
+a - 2.3.1. Basics - Java Lasagna - link replit
+a - 2.3.2 Annalyn's Infiltration - Booleans -  link replit
+a - 2.3.3 Play your cards! - Conditionals -  link replit
+a - 2.3.4 Birds - Loops -  link replit
+b - Problem - link replit
